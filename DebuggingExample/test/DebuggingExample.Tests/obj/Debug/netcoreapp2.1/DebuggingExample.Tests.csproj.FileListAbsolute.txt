@@ -1,0 +1,17 @@
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.Tests.deps.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.Tests.runtimeconfig.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.Tests.runtimeconfig.dev.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.Tests.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.Tests.pdb
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/bin/Debug/netcoreapp2.1/DebuggingExample.pdb
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.csprojAssemblyReference.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.csproj.CoreCompileInputs.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.AssemblyInfoInputs.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.AssemblyInfo.cs
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.csproj.CopyComplete
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/test/DebuggingExample.Tests/obj/Debug/netcoreapp2.1/DebuggingExample.Tests.pdb

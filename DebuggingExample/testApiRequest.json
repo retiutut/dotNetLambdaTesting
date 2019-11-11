@@ -1,0 +1,8 @@
+Usage: sam local generate-event apigateway [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  authorizer  Generates an Amazon API Gateway Authorizer Event
+  aws-proxy   Generates an Amazon API Gateway AWS Proxy Event

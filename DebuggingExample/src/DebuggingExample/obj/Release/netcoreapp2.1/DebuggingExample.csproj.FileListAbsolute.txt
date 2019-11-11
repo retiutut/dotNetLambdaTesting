@@ -1,0 +1,11 @@
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp2.1/DebuggingExample.deps.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp2.1/DebuggingExample.runtimeconfig.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp2.1/DebuggingExample.runtimeconfig.dev.json
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp2.1/DebuggingExample.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp2.1/DebuggingExample.pdb
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.csprojAssemblyReference.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.csproj.CoreCompileInputs.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.AssemblyInfoInputs.cache
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.AssemblyInfo.cs
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.dll
+/Users/Richard/Documents/GitHub/dotNetLambdaTesting/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp2.1/DebuggingExample.pdb
